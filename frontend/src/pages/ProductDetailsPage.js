@@ -83,10 +83,10 @@ const ProductDetailsPage = () => {
                 <ListGroup.Item>
                   Quantity:
                   <Form.Select size="lg" aria-label="Default select example">
-                    <option>1</option>
-                    <option value="1">2</option>
-                    <option value="2">3</option>
-                    <option value="3">4</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
                   </Form.Select>
                 </ListGroup.Item>
                 <ListGroup.Item>
